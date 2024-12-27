@@ -3,7 +3,7 @@
 This is a responsive business portfolio website created from a PSD design file. It showcases a clean, modern design that is fully responsive and optimized for all devices. The purpose of this project was to practice front-end development skills and create a pixel-perfect implementation of the design.
 
 ## 🚀 **Live Demo**
-[View the Website](https://thecodemaster12.github.io/PSD-to-HTML-1/)
+[**View the Website**](https://thecodemaster12.github.io/PSD-to-HTML-1/)
 
 ## 🌟 **Features**
 - Fully responsive design for desktop, tablet, and mobile.
@@ -41,5 +41,5 @@ git clone https://github.com/thecodemaster12/PSD-to-HTML-1.git
 
 ## 📞 **Contact**
 If you have any questions or feedback, feel free to reach out!
-- [Your Portfolio](https://yourportfolio.com)
+- [Email](mailto:email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/saifur-rahman-shihab/)
